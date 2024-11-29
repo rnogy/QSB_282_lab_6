@@ -1,15 +1,27 @@
 ---
-bibliography: references.bib
+bibliography: zotero_export.bib
 title: "Lab 6: Quarto Presentation"
 author: "Ching Ng"
 format: revealjs
 editor: visual
 ---
+## [Some Important Literature]{style="text-align: center;color:white"} {background-image="dna.png" style="text-align: center"}
 
-## \## Some Important Literature
+<b style="color:orange; font-size:42px;background-color:grey;"> <br> - Most of the circulating extracurricular MicroRNAs are bound to and stabilized by AGO2. [@geekiyanage_extracellular_2020] <br> - My experiments is based on the conditions described in this paper. [@wang_guide-rna_2024] </b>
 
-## \## A Cool Equation or Two
+## References
 
-$$
-\frac{e^{z_i}}{\sum^k_{j=1}e^{z_i}}
-$$
+::: {#refs}
+:::
+
+## [A Cool Equation or Two]{style="color:white;"} {background-image="dna_wireframe.png"}
+
+::: {.column width="50%"}
+![](softmax_y_component_on_xy_plane.jpg){fig-cap="Some not related image"}
+:::
+
+::: {.column width="50%"}
+<b style="color:white; font-size:90px;"> $$
+\frac{e^{z_i}}{\sum^k_{j=1}e^{z_i}} 
+$$ </b>
+:::
