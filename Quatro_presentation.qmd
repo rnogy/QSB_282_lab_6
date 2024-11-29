@@ -5,9 +5,9 @@ author: "Ching Ng"
 format: revealjs
 editor: visual
 ---
-## [Some Important Literature]{style="text-align: center;color:white"} {background-image="dna.png" style="text-align: center"}
+## [Some Important Literature]{style="text-align: center;color:white;background-color:#b1ac1b;"} {background-image="dna.png" style="text-align: center"}
 
-<b style="color:orange; font-size:42px;background-color:grey;"> <br> - Most of the circulating extracurricular MicroRNAs are bound to and stabilized by AGO2. [@geekiyanage_extracellular_2020] <br> - My experiments is based on the conditions described in this paper. [@wang_guide-rna_2024] </b>
+<b style="color:white; font-size:42px;background-color:#838f8d;"> <br> - Most of the circulating extracurricular MicroRNAs are bound to and stabilized by AGO2. [@geekiyanage_extracellular_2020] <br> - My experiments is based on the conditions described in this paper. [@wang_guide-rna_2024] </b>
 
 ## References
 
